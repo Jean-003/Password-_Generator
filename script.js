@@ -133,3 +133,18 @@ function getRandom(arr) {
   }
   
   getRandom(numericCharacters);
+
+  // Function to generate password with user input
+function generatePassword() {
+    var passwordObject = getPasswordOptions()
+    var userChoiceArray = passwordObject.userChoiceArray
+    var length = passwordObject.length
+    var Password = "";
+  
+    for (var i = 0; i < length; i++) {
+      var passwordChar = getRandom(userChoiceArray);
+      Password += passwordChar;
+      
+    }
+    return Password;
+  }
