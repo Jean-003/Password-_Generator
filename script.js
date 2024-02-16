@@ -97,4 +97,31 @@ function getPasswordOptions() {
       var includeNumericCharacters = confirm("Include numeric characters?");
       var includeLowerCasedCharacters = confirm("Include lowercase letters?");
       var includeUpperCasedCharacters = confirm("Include UPPERCASE letters?");
+      let userChoiceArray = [];
+
+    if (includeNumericCharacters === true) {
+      userChoiceArray = userChoiceArray.concat(numericCharacters);
+    }
+
+    if (includeSpecialChar === true) {
+      userChoiceArray = userChoiceArray.concat(specialCharacters);
+    }
+
+    if (includeLowerCasedCharacters === true) {
+      userChoiceArray = userChoiceArray.concat(lowerCasedCharacters);
+    }
+
+    if (includeUpperCasedCharacters === true) {
+      userChoiceArray = userChoiceArray.concat(upperCasedCharacters);
+    }
+  
+    return {
+      userChoiceArray: userChoiceArray,
+      length: length
+    }
+    
+  } else {
+    alert("Please enter password between 8 and 128 characters");
+  }
+}
   
