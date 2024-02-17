@@ -1,16 +1,16 @@
-#Objective
+<h1> Objective </h1>
 
 This project utilised HTML and CSS powered by JavaScript to create an application that an organisation's employees could use to generate random passwords based on criteria they personally selected. The main aim was to produce an app that would run in the browser displaying a clean and polished user interface but one that was also responsive and that could adapt to multiple screen sizes.
 
-##The URL of the deployed application:
+<h2>The URL of the deployed application: </h2>
 
 file:///C:/Users/Jean-/ClassLessons/Password_Generator/index.html
 
-##The URL of the GitHub repository that contains the code:
+<h3>The URL of the GitHub repository that contains the code:</h3>
 
 https://github.com/Jean-003/Password_Generator
 
-##Usage
+<h2>Usage</h2>
 
 To generate a password with a length between 8 and 128 characters (lowercase, uppercase, numeric, and special characters such as $@%&\*):
 
@@ -31,13 +31,17 @@ Open the Chrome DevTools by pressing Control+Shift+I (Windows) or Command+Option
 ![Screenshot 2024-02-16 181729](https://github.com/Jean-003/Password_Generator/assets/152238337/490ce856-f61a-49bf-9e61-cc75725b6f08)
 
 
-##Licences None
+<h2>Licences </h2>
 
-##References
+ None
+
+
+
+<h2> References </h2>
 
 The following starter code was supplied by edX:
 
-JAVASCRIPT
+<h3>JAVASCRIPT</h3>
 
 // Array of special characters to be included in password
 var specialCharacters = [
@@ -158,7 +162,7 @@ passwordText.value = password;
 // Add event listener to generate button
 generateBtn.addEventListener('click', writePassword);
 
-HTML
+<h3>HTML</h3>
 
 <!DOCTYPE html>
 <html lang="en-gb">
@@ -195,7 +199,7 @@ HTML
   </body>
 </html>
 
-CSS
+<h3>CSS</h3>
 
 _,
 _::before,
