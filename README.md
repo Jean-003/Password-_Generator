@@ -22,6 +22,10 @@ To test the responsive design of the password generator app on different screens
 
 Open the Chrome DevTools by pressing Control+Shift+I (Windows) or Command+Option+I (macOS). This opens a console panel to the side of the webpage or below the webapage in the browser. Here, look for the devices icon to the left of the 'Elements' button. You can now manually input a specific size and check responsivenes. You can also click on the 'Dimentions' button usually located just below the website URL and choose a specific device from this button's drop down list.
 
+
+![Screenshot 2024-02-17 201336](https://github.com/Jean-003/Password_Generator/assets/152238337/485786b8-86bf-4513-913a-e1794aea61d0)
+
+
 ![Images displaying app in the browser]
 
 
