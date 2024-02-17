@@ -24,10 +24,19 @@ Open the Chrome DevTools by pressing Control+Shift+I (Windows) or Command+Option
 
 ![Images displaying app in the browser]
 
-![Screenshot 2024-02-16 181553](https://github.com/Jean-003/Password_Generator/assets/152238337/7d837bc9-5807-415e-9575-3fbcdbeed68b
-![Screenshot 2024-02-16 181632](https://github.com/Jean-003/Password_Generator/assets/152238337/ddae214a-1545-4499-ace4-01d00905c81d
+
+![Screenshot 2024-02-16 181553](https://github.com/Jean-003/Password_Generator/assets/152238337/7d837bc9-5807-415e-9575-3fbcdbeed68b)
+
+
+![Screenshot 2024-02-16 181632](https://github.com/Jean-003/Password_Generator/assets/152238337/ddae214a-1545-4499-ace4-01d00905c81d)
+
+
 ![Screenshot 2024-02-16 181649](https://github.com/Jean-003/Password_Generator/assets/152238337/ae702310-d2b6-43d4-bddb-b049392e4d3d)
+
+
 ![Screenshot 2024-02-16 181705](https://github.com/Jean-003/Password_Generator/assets/152238337/a20f9546-0d4a-4d28-843e-bfee50ca6898)
+
+
 ![Screenshot 2024-02-16 181729](https://github.com/Jean-003/Password_Generator/assets/152238337/490ce856-f61a-49bf-9e61-cc75725b6f08)
 
 
