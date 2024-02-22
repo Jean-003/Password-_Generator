@@ -4,7 +4,7 @@ This project utilised HTML and CSS powered by JavaScript to create an applicatio
 
 <h2>The URL of the deployed application: </h2>
 
-file:///C:/Users/Jean-/ClassLessons/Password_Generator/index.html
+https://jean-003.github.io/Password_Generator/
 
 <h3>The URL of the GitHub repository that contains the code:</h3>
 
